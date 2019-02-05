@@ -1,0 +1,34 @@
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rober\documents\visual studio 2015\Projects\Python\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+D:\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
